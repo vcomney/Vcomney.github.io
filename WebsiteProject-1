@@ -1,0 +1,105 @@
+<html xm1ns="http:www.w3.org/1999/xhtml">
+
+<head>
+<title>My Faux-tography</title>
+ <style>
+ H1 {
+   color: #FF0000;
+     Background-color: yellow;
+     Font-size: 60px;
+      Font-family: Times New Roman;}
+
+
+   .larger-image {
+        width: 817px;
+      }
+   .second-image {
+     width: 817px;
+marigin-top: 10px;
+   }
+   .rope-image {
+     width: 250px;
+       height: 300px;
+   }
+   .mushroom-image {
+     width: 200px;
+     height: 300px;
+   }
+   .rat-image {
+     width: 450px;
+     height: 300px;
+   }
+  .academy-image {
+   width: 400px;
+    height: 300px;
+   }
+   .moma-image {
+     width: 250px;
+     height: 400px;
+     margin-left: 40px;
+     margin-top: -10px;
+   }
+   .tiny-toilet {
+     width: 300px;
+     height: 400px;
+     margin-top: -10px;
+   }
+   .thin-silver-border {
+     border-color: silver;
+     border-width: 8px;
+     border-style: solid;
+
+   }
+   .thin-black-border {
+     border-color: black;
+     border-width: 8px;
+     border-style: solid;
+   }
+   
+</style>
+  </head>
+
+
+
+  <h1>Faux-tography</h1>
+  </div>
+<style>
+ p {
+       color: blue;
+       Background-color:yellow;
+Font-size: 16px;
+   Font-family: sans-serif;}
+  h2{
+  color: purple;
+  background-color:yellow;
+  font-size: 28px
+  font-family: monospace;}
+  ol{
+  color: silver;
+  background-color: black;
+  font-size: 18px;}
+
+</style>
+
+  <p>     I have always enjoyed taking pictures and editing them to assign my own signature flair. From traveling to interesting spots domestic and foreign to the wonders found in everyday, looking for the right shot has been a constant source of enjoyment for me. I like to capture the randomness of a moment as an account of something that came and went and will never be experienced again. I tend to lean on black and white photography for the depth it can create within the intermingling of light and shadow. But I also enjoy playing with and manipulating color in the editing process. I hope you can find as much pleasure in these shots as I did taking and shaping them. </p>
+  </div>
+</html>
+
+<a href="#"><img class="larger-image" alt="Muir Woods Pano." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12311282_10201195392605028_4784351210162313955_n.jpg?oh=d0db1b15b99ddd07b6679556611c44fe&oe=5878534A"></a>
+                <body>
+                <h2> Things I Like to Take Pictures Of </h2>
+                <ol>
+                <li> Nature Stuff</li>
+                  <a href="#"><img class="mushroom-image thin-silver-border" alt="mushroom picture." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/293004_2389897484976_288341168_n.jpg?oh=6099f92981a574f4c4d3ec847ed954c8&oe=586EF193"></a>
+ <a href="#"><img class="rat-image thin-silver-border" alt="dead rat picture." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13533291_10201975624750344_9135827753944001028_n.jpg?oh=2053ee54cdad849a81f5877429c5bd89&oe=58730CE3"></a>
+                <li> City/Industrial Stuff</li>
+                  <a href="#"><img class="rope-image thin-silver-border" alt="Boat rope." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/576397_2165688959903_808650623_n.jpg?oh=404e02538e5fee0e89dd8dee074a9643&oe=58792F80"></a>
+<a href="#"><img class="academy-image thin-silver-border" alt="Academy of Science." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/11402707_10200958956414271_6292082658043032620_n.jpg?oh=695c0a52c6fd065af96f9bb26cbc44e2&oe=586C29FC"></a>
+                <li> Fleeting Snapshots</li>
+                </ol>
+<a href="#"><img class="moma-image thin-black-border" alt="MOMA photograph." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13509092_10201952337368174_6748215490588694690_n.jpg?oh=2487f7479724df7ebcbd145b2fb73890&oe=586AA0C1"></a>
+
+<a href="#"><img class="tiny-toilet thin-black-border" alt="tiniest toilet in New Orleans." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/10676243_4844579890502_7654589874265019235_n.jpg?oh=79115799c84627fa735868122d8fdef6&oe=5873DBAD"></a>
+                </body>
+<a href="#"><img class="second-image" alt="Monterey Sunset." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12243146_10201181184249828_5652968248988362974_n.jpg?oh=172285d19479e38f67fd8fbbab125d2c&oe=5884663E"></a>
+
