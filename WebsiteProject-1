@@ -55,7 +55,7 @@ marigin-top: 10px;
      border-width: 8px;
      border-style: solid;
    }
-   
+
 </style>
   </head>
 
@@ -66,9 +66,9 @@ marigin-top: 10px;
 <style>
  p {
        color: blue;
-       Background-color:yellow;
-Font-size: 16px;
-   Font-family: sans-serif;}
+       background-color:yellow;
+       font-size: 16px;
+       font-family: sans-serif;}
   h2{
   color: purple;
   background-color:yellow;
@@ -95,11 +95,10 @@ Font-size: 16px;
                 <li> City/Industrial Stuff</li>
                   <a href="#"><img class="rope-image thin-silver-border" alt="Boat rope." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/576397_2165688959903_808650623_n.jpg?oh=404e02538e5fee0e89dd8dee074a9643&oe=58792F80"></a>
 <a href="#"><img class="academy-image thin-silver-border" alt="Academy of Science." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/11402707_10200958956414271_6292082658043032620_n.jpg?oh=695c0a52c6fd065af96f9bb26cbc44e2&oe=586C29FC"></a>
-                <li> Fleeting Snapshots</li>
+                <li> Random Moments</li>
                 </ol>
 <a href="#"><img class="moma-image thin-black-border" alt="MOMA photograph." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13509092_10201952337368174_6748215490588694690_n.jpg?oh=2487f7479724df7ebcbd145b2fb73890&oe=586AA0C1"></a>
 
 <a href="#"><img class="tiny-toilet thin-black-border" alt="tiniest toilet in New Orleans." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/10676243_4844579890502_7654589874265019235_n.jpg?oh=79115799c84627fa735868122d8fdef6&oe=5873DBAD"></a>
                 </body>
 <a href="#"><img class="second-image" alt="Monterey Sunset." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12243146_10201181184249828_5652968248988362974_n.jpg?oh=172285d19479e38f67fd8fbbab125d2c&oe=5884663E"></a>
-
