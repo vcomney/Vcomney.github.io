@@ -1,5 +1,5 @@
-<html xm1ns="http:www.w3.org/1999/xhtml">
-
+<html 
+<div class="container-fluid">
 <head>
 <title>My Faux-tography</title>
  <style>
@@ -109,21 +109,22 @@ Font-size: 16px;
 
 <a href="#"><img class="larger-image thin-black-border" alt="Muir Woods Pano." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12311282_10201195392605028_4784351210162313955_n.jpg?oh=d0db1b15b99ddd07b6679556611c44fe&oe=5878534A"></a>
                 <body>
-                <h2> Things I Like to Take Pictures Of </h2>
-                <ol>
-                <li> Nature Stuff</li>
+ <h2> Things I Like to Take Pictures Of </h2>
+ <ol>
+    <li>
+      <button class="btn">Nature Stuff</button></li>
                   <a href="#"><img class="mushroom-image thin-silver-border" alt="mushroom picture." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/293004_2389897484976_288341168_n.jpg?oh=6099f92981a574f4c4d3ec847ed954c8&oe=586EF193"></a>
  <a href="#"><img class="rat-image thin-silver-border" alt="dead rat picture." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13533291_10201975624750344_9135827753944001028_n.jpg?oh=2053ee54cdad849a81f5877429c5bd89&oe=58730CE3"></a>
                   
 <a href="#"><img class="jekyll-island thin-silver-border" alt="Driftwood Beach." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/581931_3169450013302_66345032_n.jpg?oh=9b55630ff401a3202ebbf6acfd28032c&oe=586BEDFB"></a>
-                <li> City/Industrial Stuff</li>
+   <li> <button class="btn">City/Industrial Stuff</button></li>
                   <a href="#"><img class="rope-image thin-silver-border" alt="Boat rope." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/576397_2165688959903_808650623_n.jpg?oh=404e02538e5fee0e89dd8dee074a9643&oe=58792F80"></a>
 <a href="#"><img class="academy-image thin-silver-border" alt="Academy of Science." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/11402707_10200958956414271_6292082658043032620_n.jpg?oh=695c0a52c6fd065af96f9bb26cbc44e2&oe=586C29FC"></a>
                   <a href="#"><img class="nola-breakfast-collage thin-silver-border" alt="Morning in New Orleans." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/10502310_4844547569694_687010809645796982_n.jpg?oh=556a10facddb341f367f363f8153322d&oe=5864C607"></a>
-                  <li> Places I've Been</li>
+   <li> <button class="btn">Places I've Been</button></li>
   <a href="#"><img class="castle-dining-hall-image thin-silver-border" alt="Castle Dining Hall Fresco." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/13606621_10202004403789802_3276462090552805909_n.jpg?oh=1ac2fa19c5700f76ad43f97d49d052ac&oe=5877307A"></a>
    <a href="#"><img class="reservoir-image thin-silver-border" alt="Cold Springs Reservior." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/11866490_10200918521843432_1196043602818247633_n.jpg?oh=e712ea0ba0f3df18c1b2d6d7fcf58d75&oe=5868B212"></a>
-                <li> Random Moments</li>
+   <li><button class="active btn btn-on">Random Moments</button></li>
                 </ol>
 <a href="#"><img class="moma-image thin-black-border" alt="MOMA photograph." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13509092_10201952337368174_6748215490588694690_n.jpg?oh=2487f7479724df7ebcbd145b2fb73890&oe=586AA0C1"></a>
 
@@ -131,4 +132,5 @@ Font-size: 16px;
  <a href="#"><img class="cathedral-collage thin-black-border" alt="New Orleans Cathedral Collage." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/15852_4847677287935_993185051569809975_n.jpg?oh=c370ff0b4b27e5ac6e679234eecd7946&oe=587AFC2A"></a>
                 </body>
 <a href="https://www.facebook.com/BadArtVern"><img class="second-image" alt="Monterey Sunset." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12243146_10201181184249828_5652968248988362974_n.jpg?oh=172285d19479e38f67fd8fbbab125d2c&oe=5884663E"></a>
-<p> I also do bad, folk art paintings in my spare time. Click on the Monterey Sunset photo above to check it out.</p>​
+<p> I also do bad, folk art paintings in my spare time. Click on the Monterey Sunset photo above to check it out.</p>
+</div>​
