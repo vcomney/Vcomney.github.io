@@ -5,33 +5,50 @@
  <style>
  H1 {
    color: #FF0000;
-     Background-color: yellow;
-     Font-size: 60px;
-      Font-family: Times New Roman;}
+     background-color: yellow;
+     font-size: 60px;
+      font-family: Times New Roman;}
 
 
    .larger-image {
-        width: 817px;
+        width: 1020px;
       }
    .second-image {
-     width: 817px;
+     width: 1020px;
 marigin-top: 10px;
    }
    .rope-image {
      width: 250px;
        height: 300px;
    }
+  
    .mushroom-image {
      width: 200px;
      height: 300px;
    }
    .rat-image {
-     width: 450px;
+     width: 442px;
+     height: 300px;
+   }
+   .jekyll-island{
+     width: 250px;
      height: 300px;
    }
   .academy-image {
-   width: 400px;
+   width: 350px;
     height: 300px;
+   }
+   .nola-breakfast-collage {
+     width: 293px;
+     height: 300px;
+   }
+   .castle-dining-hall-image {
+     width: 450px;
+     height: 300px;
+   }
+   .reservoir-image {
+     width: 450px;
+     height: 300px;
    }
    .moma-image {
      width: 250px;
@@ -41,6 +58,11 @@ marigin-top: 10px;
    }
    .tiny-toilet {
      width: 300px;
+     height: 400px;
+     margin-top: -10px;
+   }
+   .cathedral-collage{
+     width: 353px;
      height: 400px;
      margin-top: -10px;
    }
@@ -55,7 +77,7 @@ marigin-top: 10px;
      border-width: 8px;
      border-style: solid;
    }
-
+   
 </style>
   </head>
 
@@ -66,9 +88,9 @@ marigin-top: 10px;
 <style>
  p {
        color: blue;
-       background-color:yellow;
-       font-size: 16px;
-       font-family: sans-serif;}
+       Background-color:yellow;
+Font-size: 16px;
+   Font-family: sans-serif;}
   h2{
   color: purple;
   background-color:yellow;
@@ -85,23 +107,28 @@ marigin-top: 10px;
   </div>
 </html>
 
-<a href="#"><img class="larger-image" alt="Muir Woods Pano." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12311282_10201195392605028_4784351210162313955_n.jpg?oh=d0db1b15b99ddd07b6679556611c44fe&oe=5878534A"></a>
+<a href="#"><img class="larger-image thin-black-border" alt="Muir Woods Pano." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12311282_10201195392605028_4784351210162313955_n.jpg?oh=d0db1b15b99ddd07b6679556611c44fe&oe=5878534A"></a>
                 <body>
                 <h2> Things I Like to Take Pictures Of </h2>
                 <ol>
                 <li> Nature Stuff</li>
                   <a href="#"><img class="mushroom-image thin-silver-border" alt="mushroom picture." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/293004_2389897484976_288341168_n.jpg?oh=6099f92981a574f4c4d3ec847ed954c8&oe=586EF193"></a>
  <a href="#"><img class="rat-image thin-silver-border" alt="dead rat picture." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13533291_10201975624750344_9135827753944001028_n.jpg?oh=2053ee54cdad849a81f5877429c5bd89&oe=58730CE3"></a>
+                  
+<a href="#"><img class="jekyll-island thin-silver-border" alt="Driftwood Beach." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/581931_3169450013302_66345032_n.jpg?oh=9b55630ff401a3202ebbf6acfd28032c&oe=586BEDFB"></a>
                 <li> City/Industrial Stuff</li>
                   <a href="#"><img class="rope-image thin-silver-border" alt="Boat rope." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/576397_2165688959903_808650623_n.jpg?oh=404e02538e5fee0e89dd8dee074a9643&oe=58792F80"></a>
 <a href="#"><img class="academy-image thin-silver-border" alt="Academy of Science." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/11402707_10200958956414271_6292082658043032620_n.jpg?oh=695c0a52c6fd065af96f9bb26cbc44e2&oe=586C29FC"></a>
+                  <a href="#"><img class="nola-breakfast-collage thin-silver-border" alt="Morning in New Orleans." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/10502310_4844547569694_687010809645796982_n.jpg?oh=556a10facddb341f367f363f8153322d&oe=5864C607"></a>
+                  <li> Places I've Been</li>
+  <a href="#"><img class="castle-dining-hall-image thin-silver-border" alt="Castle Dining Hall Fresco." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/13606621_10202004403789802_3276462090552805909_n.jpg?oh=1ac2fa19c5700f76ad43f97d49d052ac&oe=5877307A"></a>
+   <a href="#"><img class="reservoir-image thin-silver-border" alt="Cold Springs Reservior." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/11866490_10200918521843432_1196043602818247633_n.jpg?oh=e712ea0ba0f3df18c1b2d6d7fcf58d75&oe=5868B212"></a>
                 <li> Random Moments</li>
                 </ol>
 <a href="#"><img class="moma-image thin-black-border" alt="MOMA photograph." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/13509092_10201952337368174_6748215490588694690_n.jpg?oh=2487f7479724df7ebcbd145b2fb73890&oe=586AA0C1"></a>
 
 <a href="#"><img class="tiny-toilet thin-black-border" alt="tiniest toilet in New Orleans." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/10676243_4844579890502_7654589874265019235_n.jpg?oh=79115799c84627fa735868122d8fdef6&oe=5873DBAD"></a>
+ <a href="#"><img class="cathedral-collage thin-black-border" alt="New Orleans Cathedral Collage." src="https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/15852_4847677287935_993185051569809975_n.jpg?oh=c370ff0b4b27e5ac6e679234eecd7946&oe=587AFC2A"></a>
                 </body>
 <a href="https://www.facebook.com/BadArtVern"><img class="second-image" alt="Monterey Sunset." src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12243146_10201181184249828_5652968248988362974_n.jpg?oh=172285d19479e38f67fd8fbbab125d2c&oe=5884663E"></a>
-<p> I also do bad, folk art paintings in my spare time. Click on the Monterey Sunset photo above to check it out.</p>
-
-
+<p> I also do bad, folk art paintings in my spare time. Click on the Monterey Sunset photo above to check it out.</p>​
